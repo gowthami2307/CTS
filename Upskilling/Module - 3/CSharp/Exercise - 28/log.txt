@@ -1,0 +1,2 @@
+Application Started
+Logging Information
