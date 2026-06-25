@@ -1,0 +1,14 @@
+C:\Users\asus\Downloads\practice\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Downloads\practice\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.AssemblyInfoInputs.cache
+C:\Users\asus\Downloads\practice\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.AssemblyInfo.cs
+C:\Users\asus\Downloads\practice\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\practice\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.exe
+C:\Users\asus\Downloads\practice\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.deps.json
+C:\Users\asus\Downloads\practice\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.runtimeconfig.json
+C:\Users\asus\Downloads\practice\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.dll
+C:\Users\asus\Downloads\practice\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.pdb
+C:\Users\asus\Downloads\practice\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.dll
+C:\Users\asus\Downloads\practice\SingletonPatternExample\obj\Debug\net10.0\refint\SingletonPatternExample.dll
+C:\Users\asus\Downloads\practice\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.pdb
+C:\Users\asus\Downloads\practice\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.genruntimeconfig.cache
+C:\Users\asus\Downloads\practice\SingletonPatternExample\obj\Debug\net10.0\ref\SingletonPatternExample.dll
