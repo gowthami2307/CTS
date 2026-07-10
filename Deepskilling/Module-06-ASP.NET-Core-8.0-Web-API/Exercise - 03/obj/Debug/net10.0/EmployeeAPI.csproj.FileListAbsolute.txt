@@ -1,0 +1,80 @@
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\appsettings.json
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\EmployeeAPI.staticwebassets.endpoints.json
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\EmployeeAPI.exe
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\EmployeeAPI.deps.json
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\EmployeeAPI.runtimeconfig.json
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\EmployeeAPI.dll
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\EmployeeAPI.pdb
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.csproj.AssemblyReference.cache
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.AssemblyInfoInputs.cache
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.AssemblyInfo.cs
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.csproj.CoreCompileInputs.cache
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\scopedcss\bundle\EmployeeAPI.styles.css
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\Employee.D48F0156.Up2Date
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.dll
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\refint\EmployeeAPI.dll
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.pdb
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.genruntimeconfig.cache
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\obj\Debug\net10.0\ref\EmployeeAPI.dll
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\System.Net.Http.Formatting.dll
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\Newtonsoft.Json.Bson.dll
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\galla\OneDrive\Desktop\3_WebApi_Handson\EmployeeAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\appsettings.json
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\EmployeeAPI.staticwebassets.endpoints.json
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\EmployeeAPI.exe
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\EmployeeAPI.deps.json
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\EmployeeAPI.runtimeconfig.json
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\EmployeeAPI.dll
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\EmployeeAPI.pdb
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\System.Net.Http.Formatting.dll
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\Newtonsoft.Json.Bson.dll
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\EmployeeAPI.csproj.AssemblyReference.cache
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\EmployeeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\EmployeeAPI.AssemblyInfoInputs.cache
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\EmployeeAPI.AssemblyInfo.cs
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\EmployeeAPI.csproj.CoreCompileInputs.cache
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\EmployeeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\EmployeeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\scopedcss\bundle\EmployeeAPI.styles.css
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\Employee.D48F0156.Up2Date
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\EmployeeAPI.dll
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\refint\EmployeeAPI.dll
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\EmployeeAPI.pdb
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\EmployeeAPI.genruntimeconfig.cache
+C:\Users\galla\OneDrive\Desktop\Exercise - 03\obj\Debug\net10.0\ref\EmployeeAPI.dll

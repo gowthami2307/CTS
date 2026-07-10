@@ -1,0 +1,14 @@
+C:\Users\reddy\OneDrive\Desktop\BTech\PLACEMENT\COGNIZANT\CTS---Deep-Skilling-main\CTS---Deep-Skilling-main\Module-01-Design-Patterns-and-Principles\Exercise - 10\bin\Debug\net10.0\Exercise - 10.exe
+C:\Users\reddy\OneDrive\Desktop\BTech\PLACEMENT\COGNIZANT\CTS---Deep-Skilling-main\CTS---Deep-Skilling-main\Module-01-Design-Patterns-and-Principles\Exercise - 10\bin\Debug\net10.0\Exercise - 10.deps.json
+C:\Users\reddy\OneDrive\Desktop\BTech\PLACEMENT\COGNIZANT\CTS---Deep-Skilling-main\CTS---Deep-Skilling-main\Module-01-Design-Patterns-and-Principles\Exercise - 10\bin\Debug\net10.0\Exercise - 10.runtimeconfig.json
+C:\Users\reddy\OneDrive\Desktop\BTech\PLACEMENT\COGNIZANT\CTS---Deep-Skilling-main\CTS---Deep-Skilling-main\Module-01-Design-Patterns-and-Principles\Exercise - 10\bin\Debug\net10.0\Exercise - 10.dll
+C:\Users\reddy\OneDrive\Desktop\BTech\PLACEMENT\COGNIZANT\CTS---Deep-Skilling-main\CTS---Deep-Skilling-main\Module-01-Design-Patterns-and-Principles\Exercise - 10\bin\Debug\net10.0\Exercise - 10.pdb
+C:\Users\reddy\OneDrive\Desktop\BTech\PLACEMENT\COGNIZANT\CTS---Deep-Skilling-main\CTS---Deep-Skilling-main\Module-01-Design-Patterns-and-Principles\Exercise - 10\obj\Debug\net10.0\Exercise - 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reddy\OneDrive\Desktop\BTech\PLACEMENT\COGNIZANT\CTS---Deep-Skilling-main\CTS---Deep-Skilling-main\Module-01-Design-Patterns-and-Principles\Exercise - 10\obj\Debug\net10.0\Exercise - 10.AssemblyInfoInputs.cache
+C:\Users\reddy\OneDrive\Desktop\BTech\PLACEMENT\COGNIZANT\CTS---Deep-Skilling-main\CTS---Deep-Skilling-main\Module-01-Design-Patterns-and-Principles\Exercise - 10\obj\Debug\net10.0\Exercise - 10.AssemblyInfo.cs
+C:\Users\reddy\OneDrive\Desktop\BTech\PLACEMENT\COGNIZANT\CTS---Deep-Skilling-main\CTS---Deep-Skilling-main\Module-01-Design-Patterns-and-Principles\Exercise - 10\obj\Debug\net10.0\Exercise - 10.csproj.CoreCompileInputs.cache
+C:\Users\reddy\OneDrive\Desktop\BTech\PLACEMENT\COGNIZANT\CTS---Deep-Skilling-main\CTS---Deep-Skilling-main\Module-01-Design-Patterns-and-Principles\Exercise - 10\obj\Debug\net10.0\Exercise - 10.dll
+C:\Users\reddy\OneDrive\Desktop\BTech\PLACEMENT\COGNIZANT\CTS---Deep-Skilling-main\CTS---Deep-Skilling-main\Module-01-Design-Patterns-and-Principles\Exercise - 10\obj\Debug\net10.0\refint\Exercise - 10.dll
+C:\Users\reddy\OneDrive\Desktop\BTech\PLACEMENT\COGNIZANT\CTS---Deep-Skilling-main\CTS---Deep-Skilling-main\Module-01-Design-Patterns-and-Principles\Exercise - 10\obj\Debug\net10.0\Exercise - 10.pdb
+C:\Users\reddy\OneDrive\Desktop\BTech\PLACEMENT\COGNIZANT\CTS---Deep-Skilling-main\CTS---Deep-Skilling-main\Module-01-Design-Patterns-and-Principles\Exercise - 10\obj\Debug\net10.0\Exercise - 10.genruntimeconfig.cache
+C:\Users\reddy\OneDrive\Desktop\BTech\PLACEMENT\COGNIZANT\CTS---Deep-Skilling-main\CTS---Deep-Skilling-main\Module-01-Design-Patterns-and-Principles\Exercise - 10\obj\Debug\net10.0\ref\Exercise - 10.dll
