@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reddy\\OneDrive\\Desktop\\BTech\\PLACEMENT\\COGNIZANT\\CTS---Deep-Skilling-main\\CTS---Deep-Skilling-main\\Module-04-Nunit and Moq\\Exercise - 07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0727266-536E-46B5-AE16-01931B6C82C7}|..\\LeapYearCalculatorLib.Tests\\LeapYearCalculatorLib.Tests.csproj|c:\\users\\reddy\\onedrive\\desktop\\parent project code\\parent project code\\leapyearcalculatorlib\\leapyearcalculatorlib.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C1292C-EC17-45D2-8705-B9D78BD0421B}|LeapYearCalculatorLib.csproj|c:\\users\\reddy\\onedrive\\desktop\\parent project code\\parent project code\\leapyearcalculatorlib\\leapyearcalculatorlib\\leapyearcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeapYearCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\reddy\\OneDrive\\Desktop\\Parent project code\\Parent project code\\LeapYearCalculatorLib\\LeapYearCalculatorLib\\LeapYearCalculator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Parent project code\\Parent project code\\LeapYearCalculatorLib\\LeapYearCalculatorLib\\LeapYearCalculator.cs",
+              "ToolTip": "C:\\Users\\reddy\\OneDrive\\Desktop\\Parent project code\\Parent project code\\LeapYearCalculatorLib\\LeapYearCalculatorLib\\LeapYearCalculator.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Parent project code\\Parent project code\\LeapYearCalculatorLib\\LeapYearCalculatorLib\\LeapYearCalculator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T21:40:57.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\reddy\\OneDrive\\Desktop\\Parent project code\\Parent project code\\LeapYearCalculatorLib\\LeapYearCalculatorLib.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Parent project code\\Parent project code\\LeapYearCalculatorLib\\LeapYearCalculatorLib.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\reddy\\OneDrive\\Desktop\\Parent project code\\Parent project code\\LeapYearCalculatorLib\\LeapYearCalculatorLib.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Parent project code\\Parent project code\\LeapYearCalculatorLib\\LeapYearCalculatorLib.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T21:40:28.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

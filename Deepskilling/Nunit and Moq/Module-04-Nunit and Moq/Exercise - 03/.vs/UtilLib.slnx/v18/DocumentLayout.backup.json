@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reddy\\OneDrive\\Desktop\\BTech\\PLACEMENT\\COGNIZANT\\CTS---Deep-Skilling-main\\CTS---Deep-Skilling-main\\Module-04-Nunit and Moq\\Exercise - 03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22EB4198-53FB-42A3-8CF3-038775328807}|..\\UtilLib.Tests\\UtilLib.Tests.csproj|c:\\users\\reddy\\onedrive\\desktop\\cts\\parent project code\\utillib\\utillib.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D978E-9BB7-4CD0-BC06-E1764F01E3F7}|UtilLib.csproj|c:\\users\\reddy\\onedrive\\desktop\\cts\\parent project code\\utillib\\utillib\\urlhostnameparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\reddy\\OneDrive\\Desktop\\CTS\\Parent Project Code\\UtilLib\\UtilLib.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\CTS\\Parent Project Code\\UtilLib\\UtilLib.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\reddy\\OneDrive\\Desktop\\CTS\\Parent Project Code\\UtilLib\\UtilLib.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\CTS\\Parent Project Code\\UtilLib\\UtilLib.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwC0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T20:06:36.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UrlHostNameParser.cs",
+              "DocumentMoniker": "C:\\Users\\reddy\\OneDrive\\Desktop\\CTS\\Parent Project Code\\UtilLib\\UtilLib\\UrlHostNameParser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\CTS\\Parent Project Code\\UtilLib\\UtilLib\\UrlHostNameParser.cs",
+              "ToolTip": "C:\\Users\\reddy\\OneDrive\\Desktop\\CTS\\Parent Project Code\\UtilLib\\UtilLib\\UrlHostNameParser.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\CTS\\Parent Project Code\\UtilLib\\UtilLib\\UrlHostNameParser.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T20:04:43.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
